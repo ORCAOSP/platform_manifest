@@ -338,7 +338,7 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" remote="gh" revision="cm-10.2" />
   <project path="packages/apps/Launcher2" name="ParanoidAndroid/android_packages_apps_Launcher2" remote="gh" revision="jb43" />
   <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Mms" name="MMS-cm43-TRDS" remote="dg" revision="orca3" remote="gh" revision="cm-10.2" />
+  <project path="packages/apps/Mms" name="MMS-cm43-TRDS" remote="dg" revision="orca3" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" remote="gh" revision="cm-10.2" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="gh" revision="cm-10.2" />
   <project path="packages/apps/OneTimeInitializer" name="CyanogenMod/android_packages_apps_OneTimeInitializer" remote="gh" revision="cm-10.2" />
