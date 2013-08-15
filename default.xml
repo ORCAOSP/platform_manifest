@@ -410,7 +410,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
-  <project path="vendor/orca" name="thefutureosp/android_vendor_orca" remote="gh" revision="orca3" />
+  <project path="vendor/orca" name="thefutureosp/android_vendor_orca" remote="gh" revision="orca3-wip" />
   <project path="vendor/lge" name="ParanoidAndroid/proprietary_vendor_lge" remote="gh" revision="jb43" />
   
   <project path="packages/wallpapers/OrcaWallpapers" name="packages_wallpapers_OrcaWallpapers_v2" remote="dg" revision="orca" />
