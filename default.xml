@@ -423,6 +423,10 @@
   <project path="external/doclava" name="android_external_doclava" remote="pa" revision="jb43" />
   <project path="vendor/pa" name="android_vendor_pa" remote="pa" revision="jb43" />
   <project path="packages/apps/HALO" name="HALO" remote="fu" />
+  
+  <!-- VENDORS -->
+  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-10.2" />
+  <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-10.2" />
 
   <!-- ORCA/ORCAIO -->
   <project path="android" name="orcaio" remote="fu" revision="jb4.3" />
