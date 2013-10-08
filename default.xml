@@ -429,7 +429,7 @@
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-10.2" />
 
   <!-- ORCA/ORCAIO -->
-  <project path="android" name="orcaio" remote="fu" revision="jb4.3" />
+  <project path="android" name="platform_manifest" remote="orca" revision="orca3" />
   <project path="frameworks/base" name="android_frameworks_base" remote="orca" revision="jb4.3ad" />
   <project path="frameworks/native" name="android_frameworks_native-1" remote="orca" groups="pdk" />
   <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="orca" revision="jb4.3" />
@@ -444,8 +444,8 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="orca" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="orca" revision="jb4.3ad" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings-1" remote="orca" revision="jb4.3ad" />
-  <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="orca" revision="jb4.3" />
-  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="fu" />
+  <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="orca" revision="jb4.3cm" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="orca" revision="jb4.3" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="orca" revision="jb4.3" />
   <project path="packages/wallpapers/SunBeam" name="android_packages_wallpapers_SunBeam" remote="cr" revision="jb3" />
   <project path="packages/wallpapers/OrcaWallpapers" name="packages_wallpapers_OrcaWallpapers_v2" remote="orca" revision="orca" />
