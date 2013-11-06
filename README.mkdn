@@ -1,10 +1,9 @@
-THIS IS ORCA 3 - COMPILE IT NOW!
+AOSP KITKAT
 ==================================================================
 
 THIS BRANCH IS CURRENTLY A WORK IN PROCESS.
 
-This is not part of the orca project yet and is only a work in progress. DO NOT TRY TO BUILD IT WILL NOT SUCCEED.
-
+THIS IS NOT ORCA IS KITKAT AOSP
 
 Download the source
 --------------
@@ -24,7 +23,7 @@ Syncing the Orca Source Code
 
 Initialize
 
-    repo init -u git://github.com/ORCAOSP/platform_manifest.git -b orca3
+    repo init -u git://github.com/ORCAOSP/platform_manifest.git -b kitkat
 
 Run the following to sync the source
 
@@ -44,6 +43,6 @@ After the sync is finished, please read the [instructions from the Android site]
 You can also build (and see how long it took) for specific devices like this:
 
     . build/envsetup.sh
-    time brunch orca_mako-userdebug
+    time brunch aosp_mako-userdebug
 
 Remember to `make clobber` every now and then!
